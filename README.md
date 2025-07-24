@@ -24,7 +24,7 @@
 - Research projects in cloud computing or software engineering
 
 ## 📫 How to Reach Me
-- 📧 Email: [nipulsandeepa@gmail.com](mailto:sandeepakick436@gmail.com)
+- 📧 Email: [sandeepakick436@gmail.com](mailto:sandeepakick436@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nipulsandeepa](https://www.linkedin.com/in/nipulsandeepa)
 
 
